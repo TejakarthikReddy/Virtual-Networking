@@ -1,10 +1,10 @@
 [
   {
-    "Name": "CloudLabs Demo: Azure environment with Windows machine",
+    "Name": "Az-104",
     "Language": "English",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-104-MicrosoftAzureAdministrator/master/Instructions/Labs/LAB_04-Implement_Virtual_Networking.md",
+        "RawFilePath": "https://raw.githubusercontent.com/TejakarthikReddy/Virtual-Networking/main/LAB_04-Implement_Virtual_Networking%20(1).md",
         "Order": 1
       }
     ]
